@@ -18,7 +18,7 @@ FFMpeg GUI is a simple graphical user interface (GUI) application built using Tk
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Windows binary
-1. Download the .exe from the "releases"
+1. Download the .exe from the ["releases"](https://github.com/speltriao/simple-video-converter/releases/tag/release)
 
 ## Usage
 1. Run the application: `python ffmpeg_app.py`
